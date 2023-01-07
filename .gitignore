@@ -1,0 +1,9 @@
+# ignore ALL .log files
+*.log
+*.mid
+
+# ignore ALL files in ANY directory named temp
+temp/
+build/
+*egg-info
+
