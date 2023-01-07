@@ -50,3 +50,9 @@ This will remove the package and its dependencies from your system.
 
 ## Contributing
 We welcome contributions to the 'Jarvis' project! If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
+
+## Acknowledgements
+We would like to thank the following open source projects for their inspiration and support:
+- Click
+- psutil
+- platform
